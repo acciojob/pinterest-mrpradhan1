@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.hero{
+	display:flex;
+	box-sizing:border-box;
+}
+img{
+	object-fit: fill;
+}
+#para{
+	color:rgba(0, 0, 0, 255);
+}
+#btn{
+	background-color:red;
+	color:white;
+	border:none;
+	width:150px;
+	height:40px;
+}
